@@ -6,7 +6,7 @@ from a RabbitMQ message queue using a variety of languages and RabbitMQ client
 libraries.
 
 ### Why?
-A few years ago, I worked on [a (very exciting) project](http://fakelove.tv/work/star-wars-premiere) whose front-end was
+A few years ago, I worked on [a (very exciting) project](https://web.archive.org/web/20200511163025/http://fakelove.tv/work/star-wars-premiere) whose front-end was
 an [openFrameworks](http://openframeworks.cc/) application. Due to time/resource constraints, the
 developers were unable to get the ofx application to pull messages directly
 from the back-end's message queue. We ended up hacking together a Rube Goldberg
